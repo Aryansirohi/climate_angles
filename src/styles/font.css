@@ -1,0 +1,21 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/MontserratRomanSemiBold.ttf");
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ManropeRegular.ttf");
+  font-family: "Manrope";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/MontserratRomanRegular.ttf");
+  font-family: "Montserrat";
+  font-weight: 400;
+}
